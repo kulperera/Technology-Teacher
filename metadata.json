@@ -1,0 +1,6 @@
+{
+  "name": "EduNexus LMS - Course Material & Progress Portal",
+  "description": "Premium course materials portal for Engineering Technology and STEM subjects in Sinhala and English mediums, featuring secure payments, student progress tracking, download history, and instructor management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
